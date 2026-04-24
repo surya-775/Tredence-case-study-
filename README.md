@@ -183,6 +183,4 @@ npm run build
 npm run preview
 ```
 
----
 
-*Built for the Tredence Studio AI Agentic Platforms internship — 2025 Cohort.*
